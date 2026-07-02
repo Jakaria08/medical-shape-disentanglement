@@ -180,7 +180,7 @@ Visualization notebooks (run after training):
 
 ## Training Checkpoints
 
-Saved checkpoints for Stage 1 and Stage 2 (latent codes, model parameters, optimizer parameters):
+Saved checkpoints for Stage 1 and Stage 2 (model parameters and optimizer parameters):
 
 - [Google Drive folder](https://drive.google.com/drive/folders/126Qa6eJAueuNJF_lj259ABY0bZjAP1_V?usp=drive_link)
 
