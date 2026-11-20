@@ -1,4 +1,4 @@
-# Self-supervised Disentanglement in Medical Shapes [In Progress and Final version will be available soon]
+# Self-supervised Disentanglement in Medical Shapes [In Progress; final version will be available soon]
 
 Two-stage pipeline for learning an SDF auto-decoder to optimize shape codes in stage-1 and an MLP‑VAE over shape codes to disentangle the latent space to separate disease and aging effect. This repository is an intermediate version; we will release the final version with updated settings and experiments soon.
 
